@@ -1,0 +1,1775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7848157,
+          40.6368525
+        ]
+      },
+      "properties": {
+        "ref": "90",
+        "osm_id": "node/9316949000",
+        "group_spread_m": 61.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7840918,
+          40.6368704
+        ]
+      },
+      "properties": {
+        "ref": "90",
+        "osm_id": "way/1009786343",
+        "group_spread_m": 61.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7814956,
+          40.637956
+        ]
+      },
+      "properties": {
+        "ref": "34",
+        "osm_id": "node/9317064732",
+        "group_spread_m": 1761.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7952758,
+          40.6498564
+        ]
+      },
+      "properties": {
+        "ref": "34",
+        "osm_id": "way/1011515875",
+        "group_spread_m": 1761.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7814266,
+          40.6373748
+        ]
+      },
+      "properties": {
+        "ref": "36",
+        "osm_id": "node/9317064734",
+        "group_spread_m": 1803.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7948115,
+          40.650017
+        ]
+      },
+      "properties": {
+        "ref": "36",
+        "osm_id": "way/1011515874",
+        "group_spread_m": 1803.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7812969,
+          40.6367574
+        ]
+      },
+      "properties": {
+        "ref": "38",
+        "osm_id": "node/9317064739",
+        "group_spread_m": 1856.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7942373,
+          40.6502623
+        ]
+      },
+      "properties": {
+        "ref": "38",
+        "osm_id": "way/1011515873",
+        "group_spread_m": 1856.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811995,
+          40.6363061
+        ]
+      },
+      "properties": {
+        "ref": "42",
+        "osm_id": "node/9317064741",
+        "group_spread_m": 1894.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7931507,
+          40.6507257
+        ]
+      },
+      "properties": {
+        "ref": "42",
+        "osm_id": "way/1011515871",
+        "group_spread_m": 1894.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811535,
+          40.6360342
+        ]
+      },
+      "properties": {
+        "ref": "44",
+        "osm_id": "node/9317064745",
+        "group_spread_m": 1917.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7927129,
+          40.6508819
+        ]
+      },
+      "properties": {
+        "ref": "44",
+        "osm_id": "way/1011515870",
+        "group_spread_m": 1917.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7810971,
+          40.6357655
+        ]
+      },
+      "properties": {
+        "ref": "46",
+        "osm_id": "node/9317064747",
+        "group_spread_m": 1939.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7919477,
+          40.6511372
+        ]
+      },
+      "properties": {
+        "ref": "46",
+        "osm_id": "way/1011515869",
+        "group_spread_m": 1939.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7746135,
+          40.642172
+        ]
+      },
+      "properties": {
+        "ref": "D2",
+        "osm_id": "node/9322616791",
+        "group_spread_m": 2834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8071364,
+          40.648544
+        ]
+      },
+      "properties": {
+        "ref": "D2",
+        "osm_id": "way/1354939254",
+        "group_spread_m": 2834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7751848,
+          40.6429567
+        ]
+      },
+      "properties": {
+        "ref": "D4",
+        "osm_id": "node/9322616851",
+        "group_spread_m": 2522.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8046779,
+          40.6466676
+        ]
+      },
+      "properties": {
+        "ref": "D4",
+        "osm_id": "way/1354939259",
+        "group_spread_m": 2522.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8042077,
+          40.6575509
+        ]
+      },
+      "properties": {
+        "ref": "D",
+        "osm_id": "node/10738523994",
+        "group_spread_m": 1738.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7872226,
+          40.648697
+        ]
+      },
+      "properties": {
+        "ref": "D",
+        "osm_id": "way/1256938952",
+        "group_spread_m": 1738.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8038821,
+          40.6571886
+        ]
+      },
+      "properties": {
+        "ref": "D",
+        "osm_id": "way/1556624961",
+        "group_spread_m": 1738.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8031189,
+          40.656836
+        ]
+      },
+      "properties": {
+        "ref": "C",
+        "osm_id": "node/10738523995",
+        "group_spread_m": 1687.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7963039,
+          40.662805
+        ]
+      },
+      "properties": {
+        "ref": "C",
+        "osm_id": "node/12543728233",
+        "group_spread_m": 1687.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7875755,
+          40.649294
+        ]
+      },
+      "properties": {
+        "ref": "C",
+        "osm_id": "way/1256938951",
+        "group_spread_m": 1687.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7966938,
+          40.6628055
+        ]
+      },
+      "properties": {
+        "ref": "C",
+        "osm_id": "way/1355376250",
+        "group_spread_m": 1687.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8031112,
+          40.6572778
+        ]
+      },
+      "properties": {
+        "ref": "C",
+        "osm_id": "way/1556624960",
+        "group_spread_m": 1687.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8022619,
+          40.6567737
+        ]
+      },
+      "properties": {
+        "ref": "B",
+        "osm_id": "node/10738523996",
+        "group_spread_m": 1455.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7879103,
+          40.649898
+        ]
+      },
+      "properties": {
+        "ref": "B",
+        "osm_id": "way/1256938950",
+        "group_spread_m": 1455.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8022543,
+          40.6571744
+        ]
+      },
+      "properties": {
+        "ref": "B",
+        "osm_id": "way/1556624962",
+        "group_spread_m": 1455.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8083745,
+          40.6487629
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "node/12539238931",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8128199,
+          40.6502811
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "node/12539238956",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965561,
+          40.6622034
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "node/12543728235",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7962257,
+          40.6592788
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "node/14158118156",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7925367,
+          40.6435359
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/632238189",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8024732,
+          40.6511229
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/974788093",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7846863,
+          40.649155
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1011144703",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7846586,
+          40.6491335
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1011144704",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7844507,
+          40.6492117
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1011144705",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78635,
+          40.6610355
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1011156087",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.794475,
+          40.6464508
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1011515852",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8085788,
+          40.6490583
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1354939250",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81252,
+          40.6500866
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1354939262",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967721,
+          40.6622054
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1355376251",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7966183,
+          40.6592844
+        ]
+      },
+      "properties": {
+        "ref": "1",
+        "osm_id": "way/1556624909",
+        "group_spread_m": 2533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8073755,
+          40.6492118
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "node/12539238933",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8118865,
+          40.6507134
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "node/12539238960",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965611,
+          40.6618111
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "node/12543728239",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7925113,
+          40.6433911
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/632238190",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.801349,
+          40.6510476
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/974788092",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7847655,
+          40.6497608
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1011144702",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7854911,
+          40.6611659
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1011156086",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7951441,
+          40.6473885
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1011515853",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8075653,
+          40.6494863
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1354939251",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8117146,
+          40.6504632
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1354939264",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967776,
+          40.6618133
+        ]
+      },
+      "properties": {
+        "ref": "2",
+        "osm_id": "way/1355376253",
+        "group_spread_m": 2511.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8064925,
+          40.6498433
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "node/12539238936",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8111151,
+          40.65102
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "node/12539238964",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965685,
+          40.6614186
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "node/12543728243",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7929076,
+          40.6429772
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/632238191",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.784656,
+          40.6502915
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1011144701",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7848171,
+          40.660821
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1011156088",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7930535,
+          40.6464896
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1011515851",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8007863,
+          40.6509105
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1013430828",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8066398,
+          40.6495354
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1354939252",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.810942,
+          40.6507716
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1354939266",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967851,
+          40.6614209
+        ]
+      },
+      "properties": {
+        "ref": "3",
+        "osm_id": "way/1355376255",
+        "group_spread_m": 2471.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8057031,
+          40.6489787
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "node/12539238942",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7960714,
+          40.6612924
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "node/12543728245",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.790491,
+          40.641791
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/632238172",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7843024,
+          40.6509041
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1011144699",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7843999,
+          40.6509186
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1011144700",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7840732,
+          40.6605589
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1011156089",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.794395,
+          40.6477148
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1011515854",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7998416,
+          40.6509349
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1013430829",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8060727,
+          40.6488295
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1354939255",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7963137,
+          40.661295
+        ]
+      },
+      "properties": {
+        "ref": "4",
+        "osm_id": "way/1355376256",
+        "group_spread_m": 2268.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8052984,
+          40.6484012
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "node/12539238944",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7960616,
+          40.6616859
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "node/12543728241",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7927093,
+          40.6423541
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/632238192",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7929548,
+          40.6427502
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/632238193",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7840157,
+          40.6517567
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1011144698",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7834565,
+          40.6601519
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1011156090",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7923585,
+          40.6467266
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1011515850",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8056686,
+          40.6482518
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1354939256",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7963042,
+          40.6616874
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1355376254",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967211,
+          40.653178
+        ]
+      },
+      "properties": {
+        "ref": "5",
+        "osm_id": "way/1355659391",
+        "group_spread_m": 2293.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.805048,
+          40.6480234
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "node/12539238946",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7961079,
+          40.6620127
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "node/12543728237",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7910673,
+          40.6414943
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "way/632238173",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7828373,
+          40.6513865
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "way/1011144697",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7936456,
+          40.6480322
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "way/1011515855",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8052759,
+          40.6477314
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "way/1354939257",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965441,
+          40.6620296
+        ]
+      },
+      "properties": {
+        "ref": "6",
+        "osm_id": "way/1355376252",
+        "group_spread_m": 2329.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8046406,
+          40.6477372
+        ]
+      },
+      "properties": {
+        "ref": "7",
+        "osm_id": "node/12539238948",
+        "group_spread_m": 1900.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7825419,
+          40.650744
+        ]
+      },
+      "properties": {
+        "ref": "7",
+        "osm_id": "way/1011144695",
+        "group_spread_m": 1900.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7828571,
+          40.6504741
+        ]
+      },
+      "properties": {
+        "ref": "7",
+        "osm_id": "way/1011144696",
+        "group_spread_m": 1900.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.791759,
+          40.6469591
+        ]
+      },
+      "properties": {
+        "ref": "7",
+        "osm_id": "way/1011515849",
+        "group_spread_m": 1900.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8046272,
+          40.6473846
+        ]
+      },
+      "properties": {
+        "ref": "7",
+        "osm_id": "way/1354939258",
+        "group_spread_m": 1900.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.807151,
+          40.6474233
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "node/12539238954",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.781246,
+          40.6504819
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1011116769",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7807354,
+          40.6505159
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1011116770",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7814818,
+          40.6504362
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1011116771",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7814386,
+          40.6505316
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1011116772",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7814713,
+          40.6505454
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1011116773",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8073447,
+          40.6477031
+        ]
+      },
+      "properties": {
+        "ref": "9",
+        "osm_id": "way/1354939261",
+        "group_spread_m": 2266.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8127565,
+          40.6503989
+        ]
+      },
+      "properties": {
+        "ref": "1A",
+        "osm_id": "node/12539238958",
+        "group_spread_m": 1843.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7926532,
+          40.643901
+        ]
+      },
+      "properties": {
+        "ref": "1A",
+        "osm_id": "way/632238187",
+        "group_spread_m": 1843.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8125017,
+          40.6501558
+        ]
+      },
+      "properties": {
+        "ref": "1A",
+        "osm_id": "way/1354939263",
+        "group_spread_m": 1843.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7961288,
+          40.6613428
+        ]
+      },
+      "properties": {
+        "ref": "A",
+        "osm_id": "node/14158138083",
+        "group_spread_m": 1389.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7883506,
+          40.6505182
+        ]
+      },
+      "properties": {
+        "ref": "A",
+        "osm_id": "way/1256938953",
+        "group_spread_m": 1389.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8013969,
+          40.6571663
+        ]
+      },
+      "properties": {
+        "ref": "A",
+        "osm_id": "way/1556624959",
+        "group_spread_m": 1389.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965681,
+          40.6613526
+        ]
+      },
+      "properties": {
+        "ref": "A",
+        "osm_id": "way/1556624964",
+        "group_spread_m": 1389.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.792498,
+          40.6406155
+        ]
+      },
+      "properties": {
+        "ref": "10",
+        "osm_id": "way/632238176",
+        "group_spread_m": 1398.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811383,
+          40.6497771
+        ]
+      },
+      "properties": {
+        "ref": "10",
+        "osm_id": "way/1011116768",
+        "group_spread_m": 1398.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7924787,
+          40.6485946
+        ]
+      },
+      "properties": {
+        "ref": "10",
+        "osm_id": "way/1011515858",
+        "group_spread_m": 1398.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7821652,
+          40.6504526
+        ]
+      },
+      "properties": {
+        "ref": "8",
+        "osm_id": "way/1011144692",
+        "group_spread_m": 1906.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7930296,
+          40.6483573
+        ]
+      },
+      "properties": {
+        "ref": "8",
+        "osm_id": "way/1011515856",
+        "group_spread_m": 1906.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8040524,
+          40.6462028
+        ]
+      },
+      "properties": {
+        "ref": "8",
+        "osm_id": "way/1354939260",
+        "group_spread_m": 1906.0
+      }
+    }
+  ]
+}

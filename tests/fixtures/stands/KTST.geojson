@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0001,
+          40.0001
+        ]
+      },
+      "properties": {
+        "name": "A1",
+        "area": "Terminal A",
+        "heading": null,
+        "source": "fixture",
+        "attribution": "test fixture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0001,
+          40.0003
+        ]
+      },
+      "properties": {
+        "name": "A2",
+        "area": "Terminal A",
+        "heading": null,
+        "source": "fixture",
+        "attribution": "test fixture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0004,
+          40.0005
+        ]
+      },
+      "properties": {
+        "name": "B1",
+        "area": null,
+        "heading": null,
+        "source": "fixture",
+        "attribution": "test fixture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0004,
+          40.0007
+        ]
+      },
+      "properties": {
+        "name": "B2",
+        "area": null,
+        "heading": null,
+        "source": "fixture",
+        "attribution": "test fixture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0006,
+          40.0009
+        ]
+      },
+      "properties": {
+        "name": null,
+        "area": null,
+        "heading": null,
+        "source": "fixture",
+        "attribution": "test fixture"
+      }
+    }
+  ]
+}

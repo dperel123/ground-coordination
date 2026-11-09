@@ -1,0 +1,3587 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7939452,
+          40.6416427
+        ]
+      },
+      "properties": {
+        "name": "11A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7939047,
+          40.6416648
+        ]
+      },
+      "properties": {
+        "name": "11B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7918415,
+          40.6488496
+        ]
+      },
+      "properties": {
+        "name": "12",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7920731,
+          40.6487099
+        ]
+      },
+      "properties": {
+        "name": "12X",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7906119,
+          40.649332
+        ]
+      },
+      "properties": {
+        "name": "14",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7896468,
+          40.6497836
+        ]
+      },
+      "properties": {
+        "name": "16",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7890072,
+          40.6491564
+        ]
+      },
+      "properties": {
+        "name": "18",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256938947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7926428,
+          40.6440156
+        ]
+      },
+      "properties": {
+        "name": "1B A380",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/608357741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7885852,
+          40.6484933
+        ]
+      },
+      "properties": {
+        "name": "20",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256938948,way/1256938949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7792734,
+          40.64068
+        ]
+      },
+      "properties": {
+        "name": "29B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009805345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8117697,
+          40.6507564
+        ]
+      },
+      "properties": {
+        "name": "2A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/12539238962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7949749,
+          40.6483216
+        ]
+      },
+      "properties": {
+        "name": "31A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7954176,
+          40.648171
+        ]
+      },
+      "properties": {
+        "name": "31B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7958023,
+          40.6479812
+        ]
+      },
+      "properties": {
+        "name": "31C",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7961355,
+          40.6480488
+        ]
+      },
+      "properties": {
+        "name": "31D",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7815954,
+          40.6385897
+        ]
+      },
+      "properties": {
+        "name": "32",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9317064730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7959718,
+          40.6489448
+        ]
+      },
+      "properties": {
+        "name": "32F",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7959184,
+          40.6493239
+        ]
+      },
+      "properties": {
+        "name": "32G",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7958778,
+          40.6495659
+        ]
+      },
+      "properties": {
+        "name": "32H",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7957958,
+          40.6498708
+        ]
+      },
+      "properties": {
+        "name": "32I",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7945059,
+          40.6486047
+        ]
+      },
+      "properties": {
+        "name": "33",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7939493,
+          40.6488297
+        ]
+      },
+      "properties": {
+        "name": "35",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7934346,
+          40.6491146
+        ]
+      },
+      "properties": {
+        "name": "37",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7928545,
+          40.6493095
+        ]
+      },
+      "properties": {
+        "name": "39",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7936849,
+          40.6504989
+        ]
+      },
+      "properties": {
+        "name": "40",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7923001,
+          40.6495452
+        ]
+      },
+      "properties": {
+        "name": "41",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811437,
+          40.6362478
+        ]
+      },
+      "properties": {
+        "name": "42A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9317064743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7912992,
+          40.6499658
+        ]
+      },
+      "properties": {
+        "name": "43",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7906612,
+          40.6502499
+        ]
+      },
+      "properties": {
+        "name": "45",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7810399,
+          40.6358244
+        ]
+      },
+      "properties": {
+        "name": "46A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9317064746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7899945,
+          40.650601
+        ]
+      },
+      "properties": {
+        "name": "47",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/974788091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7898862,
+          40.6506381
+        ]
+      },
+      "properties": {
+        "name": "47X",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7810255,
+          40.635512
+        ]
+      },
+      "properties": {
+        "name": "48",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9317064755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7768787,
+          40.6444002
+        ]
+      },
+      "properties": {
+        "name": "501",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7764449,
+          40.6441439
+        ]
+      },
+      "properties": {
+        "name": "502",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7759755,
+          40.6437936
+        ]
+      },
+      "properties": {
+        "name": "503",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7754519,
+          40.6441691
+        ]
+      },
+      "properties": {
+        "name": "504",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7752014,
+          40.6445129
+        ]
+      },
+      "properties": {
+        "name": "505",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7750492,
+          40.6448797
+        ]
+      },
+      "properties": {
+        "name": "506",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7747197,
+          40.6450268
+        ]
+      },
+      "properties": {
+        "name": "507",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7743346,
+          40.6451944
+        ]
+      },
+      "properties": {
+        "name": "508",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7738595,
+          40.6451779
+        ]
+      },
+      "properties": {
+        "name": "509",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7739731,
+          40.6450383
+        ]
+      },
+      "properties": {
+        "name": "509A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7733808,
+          40.6451682
+        ]
+      },
+      "properties": {
+        "name": "510",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7729036,
+          40.6452384
+        ]
+      },
+      "properties": {
+        "name": "511",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7730555,
+          40.6451168
+        ]
+      },
+      "properties": {
+        "name": "511A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7723776,
+          40.6451692
+        ]
+      },
+      "properties": {
+        "name": "512",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7718835,
+          40.6451
+        ]
+      },
+      "properties": {
+        "name": "514",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7720401,
+          40.6450394
+        ]
+      },
+      "properties": {
+        "name": "514A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010408658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.772016,
+          40.6462516
+        ]
+      },
+      "properties": {
+        "name": "515",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115456,way/1011115457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7725804,
+          40.6464953
+        ]
+      },
+      "properties": {
+        "name": "516",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7729992,
+          40.6464031
+        ]
+      },
+      "properties": {
+        "name": "517",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7734712,
+          40.6464559
+        ]
+      },
+      "properties": {
+        "name": "518",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7739722,
+          40.6463978
+        ]
+      },
+      "properties": {
+        "name": "519",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7744295,
+          40.6465148
+        ]
+      },
+      "properties": {
+        "name": "520",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7748192,
+          40.646614
+        ]
+      },
+      "properties": {
+        "name": "521",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7751185,
+          40.6468407
+        ]
+      },
+      "properties": {
+        "name": "522",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7754299,
+          40.6471515
+        ]
+      },
+      "properties": {
+        "name": "523",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7759454,
+          40.6472674
+        ]
+      },
+      "properties": {
+        "name": "524",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7763483,
+          40.6474905
+        ]
+      },
+      "properties": {
+        "name": "525",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7767789,
+          40.6477608
+        ]
+      },
+      "properties": {
+        "name": "526",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7772802,
+          40.6478864
+        ]
+      },
+      "properties": {
+        "name": "527",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7777167,
+          40.6480897
+        ]
+      },
+      "properties": {
+        "name": "528",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7780694,
+          40.6483905
+        ]
+      },
+      "properties": {
+        "name": "529",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7780442,
+          40.648311
+        ]
+      },
+      "properties": {
+        "name": "529A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7781398,
+          40.6484666
+        ]
+      },
+      "properties": {
+        "name": "529B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7785465,
+          40.6486651
+        ]
+      },
+      "properties": {
+        "name": "530",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7784979,
+          40.6484939
+        ]
+      },
+      "properties": {
+        "name": "530B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011115480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7762067,
+          40.6407366
+        ]
+      },
+      "properties": {
+        "name": "61",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7761084,
+          40.6407791
+        ]
+      },
+      "properties": {
+        "name": "61 A380",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7761948,
+          40.6405448
+        ]
+      },
+      "properties": {
+        "name": "61A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7756059,
+          40.6409087
+        ]
+      },
+      "properties": {
+        "name": "61B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7768838,
+          40.6403187
+        ]
+      },
+      "properties": {
+        "name": "62",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7776664,
+          40.6400289
+        ]
+      },
+      "properties": {
+        "name": "63",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7777522,
+          40.6399631
+        ]
+      },
+      "properties": {
+        "name": "63 A380",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7779837,
+          40.6398235
+        ]
+      },
+      "properties": {
+        "name": "63A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7773921,
+          40.6399508
+        ]
+      },
+      "properties": {
+        "name": "63B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7939506,
+          40.6420664
+        ]
+      },
+      "properties": {
+        "name": "7 A380",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7781807,
+          40.6385872
+        ]
+      },
+      "properties": {
+        "name": "72",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7776735,
+          40.6378706
+        ]
+      },
+      "properties": {
+        "name": "73 A380",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.777496,
+          40.6377656
+        ]
+      },
+      "properties": {
+        "name": "73A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7777582,
+          40.6380993
+        ]
+      },
+      "properties": {
+        "name": "73B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7783265,
+          40.6371221
+        ]
+      },
+      "properties": {
+        "name": "74",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.777008,
+          40.6391016
+        ]
+      },
+      "properties": {
+        "name": "78",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7769738,
+          40.6392143
+        ]
+      },
+      "properties": {
+        "name": "78A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7768094,
+          40.6385819
+        ]
+      },
+      "properties": {
+        "name": "78B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7760735,
+          40.6395429
+        ]
+      },
+      "properties": {
+        "name": "79",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7756737,
+          40.6398715
+        ]
+      },
+      "properties": {
+        "name": "79A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7763183,
+          40.639483
+        ]
+      },
+      "properties": {
+        "name": "79B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7824187,
+          40.6505982
+        ]
+      },
+      "properties": {
+        "name": "7M",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011144693,way/1011144694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7917909,
+          40.6408879
+        ]
+      },
+      "properties": {
+        "name": "8A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7917612,
+          40.640849
+        ]
+      },
+      "properties": {
+        "name": "8B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744207267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7928981,
+          40.6483523
+        ]
+      },
+      "properties": {
+        "name": "8X",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1011515857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7770103,
+          40.6429879
+        ]
+      },
+      "properties": {
+        "name": "A10",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7765289,
+          40.642328
+        ]
+      },
+      "properties": {
+        "name": "A12",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7764005,
+          40.6418414
+        ]
+      },
+      "properties": {
+        "name": "A14",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7768957,
+          40.6416105
+        ]
+      },
+      "properties": {
+        "name": "A15",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7772679,
+          40.6414501
+        ]
+      },
+      "properties": {
+        "name": "A16",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7776461,
+          40.6412906
+        ]
+      },
+      "properties": {
+        "name": "A17",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7780423,
+          40.6411173
+        ]
+      },
+      "properties": {
+        "name": "A19",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7805167,
+          40.6421986
+        ]
+      },
+      "properties": {
+        "name": "A2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7785724,
+          40.6409148
+        ]
+      },
+      "properties": {
+        "name": "A21",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7806332,
+          40.6426003
+        ]
+      },
+      "properties": {
+        "name": "A2A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401555,way/1010401556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7801773,
+          40.6426097
+        ]
+      },
+      "properties": {
+        "name": "A2B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401557,way/1010401558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7796323,
+          40.6443855
+        ]
+      },
+      "properties": {
+        "name": "A3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401533,way/1010401534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7795464,
+          40.6424557
+        ]
+      },
+      "properties": {
+        "name": "A4",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7789928,
+          40.6439813
+        ]
+      },
+      "properties": {
+        "name": "A5",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7788394,
+          40.641968
+        ]
+      },
+      "properties": {
+        "name": "A6",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256766050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7791517,
+          40.6419731
+        ]
+      },
+      "properties": {
+        "name": "A6A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256766049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7782379,
+          40.6435294
+        ]
+      },
+      "properties": {
+        "name": "A7",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7777427,
+          40.6434842
+        ]
+      },
+      "properties": {
+        "name": "A7A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7783772,
+          40.6437065
+        ]
+      },
+      "properties": {
+        "name": "A7B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7788332,
+          40.6415653
+        ]
+      },
+      "properties": {
+        "name": "A8",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1442037648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7773177,
+          40.643327
+        ]
+      },
+      "properties": {
+        "name": "A9",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.784548,
+          40.6419445
+        ]
+      },
+      "properties": {
+        "name": "B20",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7847678,
+          40.6420112
+        ]
+      },
+      "properties": {
+        "name": "B20A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.784377,
+          40.6417677
+        ]
+      },
+      "properties": {
+        "name": "B20B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7840282,
+          40.6413914
+        ]
+      },
+      "properties": {
+        "name": "B22",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7836136,
+          40.640827
+        ]
+      },
+      "properties": {
+        "name": "B24",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811695,
+          40.6419181
+        ]
+      },
+      "properties": {
+        "name": "B25",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7812834,
+          40.6417655
+        ]
+      },
+      "properties": {
+        "name": "B25A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7817867,
+          40.6420937
+        ]
+      },
+      "properties": {
+        "name": "B25B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7832001,
+          40.6402636
+        ]
+      },
+      "properties": {
+        "name": "B26",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7811738,
+          40.6414371
+        ]
+      },
+      "properties": {
+        "name": "B27",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.782787,
+          40.6397001
+        ]
+      },
+      "properties": {
+        "name": "B28",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7809745,
+          40.6407744
+        ]
+      },
+      "properties": {
+        "name": "B29",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7805652,
+          40.640789
+        ]
+      },
+      "properties": {
+        "name": "B29A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7800722,
+          40.6410266
+        ]
+      },
+      "properties": {
+        "name": "B29B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009805344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7810357,
+          40.6411377
+        ]
+      },
+      "properties": {
+        "name": "B29C",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7824405,
+          40.6391477
+        ]
+      },
+      "properties": {
+        "name": "B30",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7804085,
+          40.6402322
+        ]
+      },
+      "properties": {
+        "name": "B31",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7821782,
+          40.6385355
+        ]
+      },
+      "properties": {
+        "name": "B32",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7801196,
+          40.6395924
+        ]
+      },
+      "properties": {
+        "name": "B33",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7822022,
+          40.6378896
+        ]
+      },
+      "properties": {
+        "name": "B34",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7800853,
+          40.6390727
+        ]
+      },
+      "properties": {
+        "name": "B35",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7821071,
+          40.6373107
+        ]
+      },
+      "properties": {
+        "name": "B36",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7799667,
+          40.6384989
+        ]
+      },
+      "properties": {
+        "name": "B37",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7819987,
+          40.6366969
+        ]
+      },
+      "properties": {
+        "name": "B38",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.779867,
+          40.6378619
+        ]
+      },
+      "properties": {
+        "name": "B39",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7797571,
+          40.637189
+        ]
+      },
+      "properties": {
+        "name": "B41",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7819166,
+          40.6362387
+        ]
+      },
+      "properties": {
+        "name": "B42",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7818916,
+          40.636178
+        ]
+      },
+      "properties": {
+        "name": "B42A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7796872,
+          40.6366664
+        ]
+      },
+      "properties": {
+        "name": "B43A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/744203529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7818843,
+          40.6359656
+        ]
+      },
+      "properties": {
+        "name": "B44",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7818745,
+          40.6357085
+        ]
+      },
+      "properties": {
+        "name": "B46",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.781859,
+          40.6357497
+        ]
+      },
+      "properties": {
+        "name": "B46A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7796526,
+          40.6362752
+        ]
+      },
+      "properties": {
+        "name": "B47",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009805341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7815319,
+          40.6354932
+        ]
+      },
+      "properties": {
+        "name": "B48",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1009800808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7795564,
+          40.6358899
+        ]
+      },
+      "properties": {
+        "name": "B49",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.779744,
+          40.6354776
+        ]
+      },
+      "properties": {
+        "name": "B53",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7797052,
+          40.6350854
+        ]
+      },
+      "properties": {
+        "name": "B55",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1256904539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7743222,
+          40.6417836
+        ]
+      },
+      "properties": {
+        "name": "D1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9322616781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.774897,
+          40.6425662
+        ]
+      },
+      "properties": {
+        "name": "D13",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9322616793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8064246,
+          40.6490454
+        ]
+      },
+      "properties": {
+        "name": "D3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1354939253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7738898,
+          40.6423621
+        ]
+      },
+      "properties": {
+        "name": "D5",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9328534985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7741769,
+          40.6427528
+        ]
+      },
+      "properties": {
+        "name": "D6",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9328534983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7744632,
+          40.6431464
+        ]
+      },
+      "properties": {
+        "name": "D7",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9328534982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7747647,
+          40.6435163
+        ]
+      },
+      "properties": {
+        "name": "D8",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/9322616744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7741547,
+          40.6417163
+        ]
+      },
+      "properties": {
+        "name": "H1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7738854,
+          40.6430194
+        ]
+      },
+      "properties": {
+        "name": "H10",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7738511,
+          40.6426734
+        ]
+      },
+      "properties": {
+        "name": "H11",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401593,way/1010401594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.773953,
+          40.6423745
+        ]
+      },
+      "properties": {
+        "name": "H14",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8142692,
+          40.6506914
+        ]
+      },
+      "properties": {
+        "name": "H15-10",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8134129,
+          40.6506302
+        ]
+      },
+      "properties": {
+        "name": "H15-11",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.815355,
+          40.6535957
+        ]
+      },
+      "properties": {
+        "name": "H15-2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8151803,
+          40.6530536
+        ]
+      },
+      "properties": {
+        "name": "H15-3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8144741,
+          40.6531958
+        ]
+      },
+      "properties": {
+        "name": "H15-4",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8143007,
+          40.6526549
+        ]
+      },
+      "properties": {
+        "name": "H15-5",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8135931,
+          40.6527964
+        ]
+      },
+      "properties": {
+        "name": "H15-6",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8168103,
+          40.6517965
+        ]
+      },
+      "properties": {
+        "name": "H15-7",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8160689,
+          40.6514693
+        ]
+      },
+      "properties": {
+        "name": "H15-8",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8153299,
+          40.6511363
+        ]
+      },
+      "properties": {
+        "name": "H15-9",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8143933,
+          40.6561108
+        ]
+      },
+      "properties": {
+        "name": "H17-1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8147517,
+          40.6558176
+        ]
+      },
+      "properties": {
+        "name": "H17-2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8150144,
+          40.6554841
+        ]
+      },
+      "properties": {
+        "name": "H17-3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8151666,
+          40.6553528
+        ]
+      },
+      "properties": {
+        "name": "H17-4",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158138014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8173032,
+          40.6540836
+        ]
+      },
+      "properties": {
+        "name": "H19-1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1556624934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8178666,
+          40.6539595
+        ]
+      },
+      "properties": {
+        "name": "H19-2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8177776,
+          40.6534676
+        ]
+      },
+      "properties": {
+        "name": "H19-3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1556624935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8183879,
+          40.6532899
+        ]
+      },
+      "properties": {
+        "name": "H19-4",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "node/14158137948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8182425,
+          40.6527636
+        ]
+      },
+      "properties": {
+        "name": "H19-5",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1556624936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7742845,
+          40.6419268
+        ]
+      },
+      "properties": {
+        "name": "H1A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7744297,
+          40.6420292
+        ]
+      },
+      "properties": {
+        "name": "H2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7746991,
+          40.642346
+        ]
+      },
+      "properties": {
+        "name": "H3",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7748473,
+          40.642777
+        ]
+      },
+      "properties": {
+        "name": "H4",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7745042,
+          40.6430587
+        ]
+      },
+      "properties": {
+        "name": "H5",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7742598,
+          40.6433868
+        ]
+      },
+      "properties": {
+        "name": "H6",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7738487,
+          40.6438446
+        ]
+      },
+      "properties": {
+        "name": "H7",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401588,way/1010401589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7724841,
+          40.6439334
+        ]
+      },
+      "properties": {
+        "name": "H8",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7736558,
+          40.6433518
+        ]
+      },
+      "properties": {
+        "name": "H9",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1010401591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7938817,
+          40.6434868
+        ]
+      },
+      "properties": {
+        "name": "HS1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7936914,
+          40.6434116
+        ]
+      },
+      "properties": {
+        "name": "HS1A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7936734,
+          40.6434711
+        ]
+      },
+      "properties": {
+        "name": "HS2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7936631,
+          40.6439623
+        ]
+      },
+      "properties": {
+        "name": "HS2A",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238178,way/632238183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7931817,
+          40.6438078
+        ]
+      },
+      "properties": {
+        "name": "HS2B",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/632238182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7985935,
+          40.6614564
+        ]
+      },
+      "properties": {
+        "name": "N",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1355659405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967561,
+          40.6545386
+        ]
+      },
+      "properties": {
+        "name": "N1",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1355659395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7967484,
+          40.6538797
+        ]
+      },
+      "properties": {
+        "name": "N2",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1355659392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7986488,
+          40.6609174
+        ]
+      },
+      "properties": {
+        "name": "S",
+        "area": null,
+        "heading": null,
+        "source": "openstreetmap",
+        "attribution": "© OpenStreetMap contributors, ODbL",
+        "osm_id": "way/1355659403"
+      }
+    }
+  ]
+}

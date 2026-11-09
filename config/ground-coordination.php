@@ -34,4 +34,26 @@ return [
     */
     'stale_after_seconds' => 300,
 
+    /*
+    | Where `ground-coordination:import {icao}` reads its reference data:
+    | airports/{ICAO}.json and stands/{ICAO}.geojson. Any other file in
+    | stands/ (e.g. {ICAO}.ambiguous.geojson, the hand-correction backlog) is
+    | never read.
+    */
+    'data_path' => dirname(__DIR__).'/resources/data',
+
+    /*
+    | `ground-coordination:fetch-osm {icao}`: where stand positions come from
+    | (OpenStreetMap aeroway=parking_position via the Overpass API), how the
+    | request identifies itself (Overpass refuses anonymous clients with a
+    | 406), and the provenance written onto every stand it produces.
+    */
+    'osm' => [
+        'endpoint' => 'https://overpass-api.de/api/interpreter',
+        'user_agent' => 'nyartcc-ground-coordination/0.1 (stand data import)',
+        'timeout_seconds' => 120,
+        'source' => 'openstreetmap',
+        'attribution' => '© OpenStreetMap contributors, ODbL',
+    ],
+
 ];

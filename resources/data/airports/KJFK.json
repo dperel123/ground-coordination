@@ -1,0 +1,13 @@
+{
+    "icao": "KJFK",
+    "name": "John F. Kennedy International",
+    "lat": 40.6413,
+    "lon": -73.7781,
+    "bbox": {
+        "min_lat": 40.620,
+        "min_lon": -73.830,
+        "max_lat": 40.665,
+        "max_lon": -73.745
+    },
+    "timezone": "America/New_York"
+}

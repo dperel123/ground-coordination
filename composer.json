@@ -11,7 +11,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nyartcc\\GroundCoordination\\": "src/"
+            "Nyartcc\\GroundCoordination\\": "src/",
+            "Nyartcc\\GroundCoordination\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {

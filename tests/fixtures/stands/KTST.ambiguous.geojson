@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.002,
+          40.002
+        ]
+      },
+      "properties": {
+        "ref": "ZZ9",
+        "osm_id": "node/1"
+      }
+    }
+  ]
+}

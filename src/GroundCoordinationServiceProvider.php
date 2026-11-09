@@ -8,6 +8,8 @@ use Nyartcc\GroundCoordination\Adapters\NullAirportData;
 use Nyartcc\GroundCoordination\Adapters\NullBoardNotifier;
 use Nyartcc\GroundCoordination\Adapters\NullPilotIdentity;
 use Nyartcc\GroundCoordination\Adapters\NullTrafficSource;
+use Nyartcc\GroundCoordination\Console\FetchOsmCommand;
+use Nyartcc\GroundCoordination\Console\ImportCommand;
 use Nyartcc\GroundCoordination\Contracts\AirportData;
 use Nyartcc\GroundCoordination\Contracts\BoardNotifier;
 use Nyartcc\GroundCoordination\Contracts\PilotIdentity;
@@ -42,6 +44,10 @@ class GroundCoordinationServiceProvider extends ServiceProvider
         $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'ground-coordination');
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
+
+        if ($this->app->runningInConsole()) {
+            $this->commands([ImportCommand::class, FetchOsmCommand::class]);
+        }
 
         Livewire::addNamespace(
             'ground-coordination',
