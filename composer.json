@@ -1,0 +1,29 @@
+{
+    "name": "nyartcc/ground-coordination",
+    "description": "Ground coordination tools for VATSIM ARTCC websites, packaged for any Laravel host.",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Perelman"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nyartcc\\GroundCoordination\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Nyartcc\\GroundCoordination\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nyartcc\\GroundCoordination\\GroundCoordinationServiceProvider"
+            ]
+        }
+    }
+}
