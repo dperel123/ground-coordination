@@ -22,6 +22,7 @@ class AirportFactory extends Factory
             'lon' => $lon,
             'bbox' => ['min_lat' => $lat - 0.02, 'min_lon' => $lon - 0.03, 'max_lat' => $lat + 0.02, 'max_lon' => $lon + 0.03],
             'timezone' => 'America/New_York',
+            'elevation_ft' => 0,
             'match_radius_m' => 40,
             'active' => true,
         ];

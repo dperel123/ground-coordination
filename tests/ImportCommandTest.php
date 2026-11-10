@@ -41,6 +41,7 @@ class ImportCommandTest extends TestCase
 
         $airport = Airport::where('icao', 'KTST')->sole();
         $this->assertSame('Test Field', $airport->name);
+        $this->assertSame(20, $airport->elevation_ft);
         $this->assertSame(['A1', 'A2', 'B1', 'B2'], $airport->stands()->orderBy('name')->pluck('name')->all());
         $a1 = $airport->stands()->where('name', 'A1')->sole();
         $this->assertSame([40.0001, -73.0001, 'Terminal A', 'fixture', 'test fixture'], [$a1->lat, $a1->lon, $a1->area, $a1->source, $a1->attribution]);

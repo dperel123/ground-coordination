@@ -1,0 +1,19 @@
+{
+  "data": {
+    "v3": [
+      "https://data.example.test/v3/vatsim-data.json"
+    ],
+    "transceivers": [
+      "https://data.example.test/v3/transceivers-data.json"
+    ],
+    "servers": [],
+    "servers_sweatbox": [],
+    "servers_all": []
+  },
+  "user": [
+    "https://stats.example.test/api/user/"
+  ],
+  "metar": [
+    "https://metar.example.test/"
+  ]
+}

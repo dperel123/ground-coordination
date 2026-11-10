@@ -3,6 +3,7 @@
     "name": "John F. Kennedy International",
     "lat": 40.6413,
     "lon": -73.7781,
+    "elevation_ft": 13,
     "bbox": {
         "min_lat": 40.620,
         "min_lon": -73.830,

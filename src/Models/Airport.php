@@ -17,6 +17,7 @@ use Nyartcc\GroundCoordination\Database\Factories\AirportFactory;
  * @property float $lon
  * @property array{min_lat: float, min_lon: float, max_lat: float, max_lon: float} $bbox
  * @property string $timezone
+ * @property int|null $elevation_ft
  * @property int $match_radius_m
  * @property bool $active
  */
@@ -27,7 +28,7 @@ class Airport extends Model
     /** @use HasFactory<AirportFactory> */
     use HasFactory;
 
-    protected $fillable = ['icao', 'name', 'lat', 'lon', 'bbox', 'timezone', 'match_radius_m', 'active'];
+    protected $fillable = ['icao', 'name', 'lat', 'lon', 'bbox', 'timezone', 'elevation_ft', 'match_radius_m', 'active'];
 
     protected function casts(): array
     {
@@ -35,6 +36,7 @@ class Airport extends Model
             'lat' => 'float',
             'lon' => 'float',
             'bbox' => 'array',
+            'elevation_ft' => 'integer',
             'match_radius_m' => 'integer',
             'active' => 'boolean',
         ];
@@ -44,5 +46,11 @@ class Airport extends Model
     public function stands(): HasMany
     {
         return $this->hasMany(Stand::class);
+    }
+
+    /** @return HasMany<GroundAircraft, $this> */
+    public function groundAircraft(): HasMany
+    {
+        return $this->hasMany(GroundAircraft::class);
     }
 }

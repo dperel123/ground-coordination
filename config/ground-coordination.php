@@ -24,7 +24,9 @@ return [
     'airports' => ['KJFK'],
 
     /*
-    | How often, in seconds, an open page refreshes its traffic picture.
+    | How often, in seconds, an open page refreshes its traffic picture, and
+    | how often the scheduled sweep runs (rounded to the nearest frequency the
+    | scheduler offers: 1, 2, 5, 10, 15, 20, 30 or 60 seconds).
     */
     'poll_seconds' => 15,
 
@@ -33,6 +35,45 @@ return [
     | treated as gone.
     */
     'stale_after_seconds' => 300,
+
+    /*
+    | The traffic feed counts as live only while its last successful fetch is
+    | at most this many seconds old (Services\FeedStatus::isLive()).
+    */
+    'live_window_seconds' => 300,
+
+    /*
+    | How long the scheduled sweep's overlap lock may be held, in minutes,
+    | before a crashed run's lock is ignored.
+    */
+    'sweep_lock_minutes' => 2,
+
+    /*
+    | The default traffic source (Adapters\VatsimDatafeedTrafficSource).
+    | status_url is VATSIM's status file, which names the v3 data URL; the
+    | data URL it names is kept for status_cache_seconds. The parsed pilots
+    | list is cached for cache_seconds, so every airport swept in one cycle
+    | shares one download. Keep cache_seconds below poll_seconds.
+    */
+    'datafeed' => [
+        'status_url' => 'https://status.vatsim.net/status.json',
+        'user_agent' => 'nyartcc-ground-coordination/0.1 (ground sweep)',
+        'timeout' => 10,
+        'cache_seconds' => 10,
+        'status_cache_seconds' => 3600,
+    ],
+
+    /*
+    | Which reported aircraft count as on the ground, and when one counts as
+    | stationary. An aircraft is on the ground when it is inside the airport
+    | bbox, slower than max_groundspeed_kt and lower than the airport's
+    | elevation_ft + max_agl_ft.
+    */
+    'ground' => [
+        'max_groundspeed_kt' => 50,
+        'max_agl_ft' => 300,
+        'stationary_kt' => 3,
+    ],
 
     /*
     | Where `ground-coordination:import {icao}` reads its reference data:

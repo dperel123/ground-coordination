@@ -3,6 +3,7 @@
     "name": "Test Field",
     "lat": 40.0,
     "lon": -73.0,
+    "elevation_ft": 20,
     "bbox": { "min_lat": 39.99, "min_lon": -73.01, "max_lat": 40.01, "max_lon": -72.99 },
     "timezone": "America/New_York"
 }
